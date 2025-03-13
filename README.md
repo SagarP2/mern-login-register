@@ -1,9 +1,9 @@
-🔐 MERN Login & Registration System
+# 🔐 MERN Login & Registration System
 
 The MERN Login & Registration System is a full-stack authentication solution built with MongoDB, Express.js, React.js, and Node.js. It provides a secure and efficient way to handle user authentication with modern security practices.
 
 
-🚀 Features
+# 🚀 Features
 
 ✅ User Registration – Secure signup with validation.
 
@@ -19,7 +19,7 @@ The MERN Login & Registration System is a full-stack authentication solution bui
 
 🌐 Responsive UI – Built with React.js for a smooth user experience.
 
-🛠️ Installation Guide
+# 🛠️ Installation Guide
 
 Prerequisites
 
@@ -36,7 +36,7 @@ React.js (Frontend)
 
 Express.js (Backend)
 
-Steps to Set Up
+# Steps to Set Up
 
 1️⃣ Clone the Repository:
 
@@ -76,6 +76,6 @@ cd frontend
 
 npm start
 
-📌 About
+# 📌 About
 
 The MERN Login & Registration System is a secure and scalable authentication system using MongoDB, React.js, and Node.js.
